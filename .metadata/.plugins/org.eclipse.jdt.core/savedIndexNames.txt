@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+F:\Ingeniería en Computacion - UNLP\2° Año\Taller de lenguajes II\Workspace eclipse\Taller de lenguajes II\.metadata\.plugins\org.eclipse.jdt.core
+2855144357.index
+2902485153.index
+1865797976.index
+858216991.index
+705791174.index
+3170849665.index
+1436350132.index
+1546304159.index
+1509799344.index
+1884016641.index
